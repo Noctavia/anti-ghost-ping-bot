@@ -1,1 +1,5 @@
-
+{
+  "enabled": true,
+  "whitelist": [],
+  "redirect_channel": null
+}
